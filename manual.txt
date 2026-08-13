@@ -1,0 +1,49 @@
+
+---
+
+## Also Create a Quick `README.txt` for Your Friend
+
+Create a simple text file for sharing the EXE:
+
+```txt
+===========================================
+   SLIME SHOOTERZ - Quick Start Guide
+   Developed by MANBOY
+===========================================
+
+HOW TO PLAY:
+1. Double-click SlimeShooterz.exe
+2. Press SPACE at the menu
+3. Move with Arrow Keys or WASD
+4. Shoot with Mouse Click or SPACE
+5. Have fun!
+
+CONTROLS:
+- Arrow Keys / WASD  = Move
+- Left Click / SPACE = Shoot
+- ESC                = Pause
+- R                  = Restart (when game over)
+
+BOSSES:
+- First boss appears at 500 points
+- Bosses get harder every 500 points
+- 3 boss types: Slime King, Alien Queen, Cosmic Slime
+
+POWER-UPS:
+- Rapid Fire (Gold)   = Faster bullets
+- Spread Shot (Cyan)  = 3 bullets at once
+- Shield (Green)      = Protection + double damage
+
+TIPS:
+- Destroy enemy bullets with your own!
+- Collect power-ups from defeated enemies
+- Watch out for boss warnings!
+
+SYSTEM REQUIREMENTS:
+- Windows 7 or later
+- No special requirements!
+
+Enjoy the game! 🎮👽
+
+- MANBOY
+===========================================
